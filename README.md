@@ -11,8 +11,9 @@ Over_Gravity is a wave based dual stick side shooter where the player and enemie
 A/D - Moving Left/Right <br>
 J/L - Looking Left/Right <br>
 Space - Shoot <br>
-E - Use respawn ability<br>
+E - Use ability<br>
 W - Change weapon<br>
+R - Reload<br>
 Escape - Return to menu
 
 ### Controller
@@ -21,13 +22,29 @@ Left Joy Stick - Moving Left/Right <br>
 Right Joy Stick - Looking Left/Right <br>
 Right Trigger - Shoot<br>
 A - Change weapon<br>
-B - Respawn<br>
+B - Use ability<br>
+X - Reload
 Start - Return to menu
 
 ## How to Install
 To install and run Over_Gravity all you need to do is clone this repo and then run the executable that runs on your operating system. Windows and MacOS are supported, but linux is not.
 
-## New To 0.2
+## Update Log
+
+### New to 0.3
+
+- Added Laser Pistol
+- Added c4
+- Added Ability/Weapon upgrade system
+- Added controller rumble supported
+- Added enemy death animations
+- Added missing sounds
+- Updated weapons to have clips and ammo
+- Updated menu to work with controller
+- Improved camera movement
+- Improved pathing algorithym for Robortos
+
+### New To 0.2
 
 - Added Roborto (Enemy that follows player)
 - Added vertical scrolling
